@@ -1,1 +1,3 @@
-__DEL
+makefile test
+
+(os: windows; compiler: g++)
